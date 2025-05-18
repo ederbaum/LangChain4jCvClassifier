@@ -1,0 +1,12 @@
+{
+  "candidates": [
+    {
+      "name": "John",
+      "lasName": "Doe"
+    },
+    {
+      "name": "Carl",
+      "lastName": "Doe"
+    }
+  ]
+}
